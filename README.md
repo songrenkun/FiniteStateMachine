@@ -1,1 +1,1 @@
-# FiniteStateMachine
+# finiteStateMachine
